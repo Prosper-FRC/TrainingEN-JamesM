@@ -8,4 +8,4 @@ Logs:
 
 Creation of Repo - 9/21/2024
 
-Addition of NewSwerve branch with 364 based swerbe code - 10/7/2024
+Addition of NeoSwerve branch with 364 based swerve code - 10/7/2024
